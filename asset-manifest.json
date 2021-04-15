@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cursor-homework18/static/css/main.f1f2d0c8.chunk.css",
+    "main.js": "/cursor-homework18/static/js/main.0de5227e.chunk.js",
+    "main.js.map": "/cursor-homework18/static/js/main.0de5227e.chunk.js.map",
+    "runtime-main.js": "/cursor-homework18/static/js/runtime-main.e47ccc26.js",
+    "runtime-main.js.map": "/cursor-homework18/static/js/runtime-main.e47ccc26.js.map",
+    "static/js/2.f1c0e1ce.chunk.js": "/cursor-homework18/static/js/2.f1c0e1ce.chunk.js",
+    "static/js/2.f1c0e1ce.chunk.js.map": "/cursor-homework18/static/js/2.f1c0e1ce.chunk.js.map",
+    "static/js/3.cb616aae.chunk.js": "/cursor-homework18/static/js/3.cb616aae.chunk.js",
+    "static/js/3.cb616aae.chunk.js.map": "/cursor-homework18/static/js/3.cb616aae.chunk.js.map",
+    "index.html": "/cursor-homework18/index.html",
+    "static/css/main.f1f2d0c8.chunk.css.map": "/cursor-homework18/static/css/main.f1f2d0c8.chunk.css.map",
+    "static/js/2.f1c0e1ce.chunk.js.LICENSE.txt": "/cursor-homework18/static/js/2.f1c0e1ce.chunk.js.LICENSE.txt",
+    "static/media/search.540c369d.svg": "/cursor-homework18/static/media/search.540c369d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e47ccc26.js",
+    "static/js/2.f1c0e1ce.chunk.js",
+    "static/css/main.f1f2d0c8.chunk.css",
+    "static/js/main.0de5227e.chunk.js"
+  ]
+}
