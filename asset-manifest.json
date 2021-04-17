@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/cursor-homework18/static/css/main.f1f2d0c8.chunk.css",
-    "main.js": "/cursor-homework18/static/js/main.0de5227e.chunk.js",
-    "main.js.map": "/cursor-homework18/static/js/main.0de5227e.chunk.js.map",
+    "main.css": "/cursor-homework18/static/css/main.5b782c44.chunk.css",
+    "main.js": "/cursor-homework18/static/js/main.464f35aa.chunk.js",
+    "main.js.map": "/cursor-homework18/static/js/main.464f35aa.chunk.js.map",
     "runtime-main.js": "/cursor-homework18/static/js/runtime-main.e47ccc26.js",
     "runtime-main.js.map": "/cursor-homework18/static/js/runtime-main.e47ccc26.js.map",
-    "static/js/2.f1c0e1ce.chunk.js": "/cursor-homework18/static/js/2.f1c0e1ce.chunk.js",
-    "static/js/2.f1c0e1ce.chunk.js.map": "/cursor-homework18/static/js/2.f1c0e1ce.chunk.js.map",
+    "static/js/2.ce24f877.chunk.js": "/cursor-homework18/static/js/2.ce24f877.chunk.js",
+    "static/js/2.ce24f877.chunk.js.map": "/cursor-homework18/static/js/2.ce24f877.chunk.js.map",
     "static/js/3.cb616aae.chunk.js": "/cursor-homework18/static/js/3.cb616aae.chunk.js",
     "static/js/3.cb616aae.chunk.js.map": "/cursor-homework18/static/js/3.cb616aae.chunk.js.map",
     "index.html": "/cursor-homework18/index.html",
-    "static/css/main.f1f2d0c8.chunk.css.map": "/cursor-homework18/static/css/main.f1f2d0c8.chunk.css.map",
-    "static/js/2.f1c0e1ce.chunk.js.LICENSE.txt": "/cursor-homework18/static/js/2.f1c0e1ce.chunk.js.LICENSE.txt",
-    "static/media/search.540c369d.svg": "/cursor-homework18/static/media/search.540c369d.svg"
+    "static/css/main.5b782c44.chunk.css.map": "/cursor-homework18/static/css/main.5b782c44.chunk.css.map",
+    "static/js/2.ce24f877.chunk.js.LICENSE.txt": "/cursor-homework18/static/js/2.ce24f877.chunk.js.LICENSE.txt",
+    "static/media/female.102196fa.svg": "/cursor-homework18/static/media/female.102196fa.svg",
+    "static/media/intersex.8b32e30c.svg": "/cursor-homework18/static/media/intersex.8b32e30c.svg",
+    "static/media/mars.5a90c2aa.svg": "/cursor-homework18/static/media/mars.5a90c2aa.svg",
+    "static/media/smartphone.1fcf0a0c.svg": "/cursor-homework18/static/media/smartphone.1fcf0a0c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e47ccc26.js",
-    "static/js/2.f1c0e1ce.chunk.js",
-    "static/css/main.f1f2d0c8.chunk.css",
-    "static/js/main.0de5227e.chunk.js"
+    "static/js/2.ce24f877.chunk.js",
+    "static/css/main.5b782c44.chunk.css",
+    "static/js/main.464f35aa.chunk.js"
   ]
 }
