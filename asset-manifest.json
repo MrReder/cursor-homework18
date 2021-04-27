@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cursor-homework18/static/css/main.6ca5b37b.chunk.css",
+    "main.css": "/cursor-homework18/static/css/main.b70b98c2.chunk.css",
     "main.js": "/cursor-homework18/static/js/main.57dd13d5.chunk.js",
     "main.js.map": "/cursor-homework18/static/js/main.57dd13d5.chunk.js.map",
     "runtime-main.js": "/cursor-homework18/static/js/runtime-main.e47ccc26.js",
@@ -10,7 +10,7 @@
     "static/js/3.cb616aae.chunk.js": "/cursor-homework18/static/js/3.cb616aae.chunk.js",
     "static/js/3.cb616aae.chunk.js.map": "/cursor-homework18/static/js/3.cb616aae.chunk.js.map",
     "index.html": "/cursor-homework18/index.html",
-    "static/css/main.6ca5b37b.chunk.css.map": "/cursor-homework18/static/css/main.6ca5b37b.chunk.css.map",
+    "static/css/main.b70b98c2.chunk.css.map": "/cursor-homework18/static/css/main.b70b98c2.chunk.css.map",
     "static/js/2.1720f6cd.chunk.js.LICENSE.txt": "/cursor-homework18/static/js/2.1720f6cd.chunk.js.LICENSE.txt",
     "static/media/female.102196fa.svg": "/cursor-homework18/static/media/female.102196fa.svg",
     "static/media/intersex.8b32e30c.svg": "/cursor-homework18/static/media/intersex.8b32e30c.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.e47ccc26.js",
     "static/js/2.1720f6cd.chunk.js",
-    "static/css/main.6ca5b37b.chunk.css",
+    "static/css/main.b70b98c2.chunk.css",
     "static/js/main.57dd13d5.chunk.js"
   ]
 }
